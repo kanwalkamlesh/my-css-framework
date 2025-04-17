@@ -305,6 +305,13 @@ img {
     background-color: rgb(73.5472972973, 125.7702702703, 239.9527027027)
 }
 
+
+
+.btn-complement-primary:hover {
+    color: #326dee;
+    background-color: hsl(41.170212766, 84.6846846847%, 86.4705882353%)
+}
+
 .btn-complement-primary {
     text-decoration: none;
     cursor: pointer;
@@ -314,11 +321,6 @@ img {
     border-radius: 20px;
     background-color: #326dee;
     color: hsl(41.170212766, 84.6846846847%, 86.4705882353%)
-}
-
-.btn-complement-primary:hover {
-    color: #326dee;
-    background-color: hsl(41.170212766, 84.6846846847%, 86.4705882353%)
 }
 
 .btn-secondary {
